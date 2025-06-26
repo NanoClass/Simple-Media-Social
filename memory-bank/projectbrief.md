@@ -13,7 +13,7 @@
   - Database: SQLite (PostgreSQL compatible)
   - Frontend: React/Vue (Future implementation)
   - Infrastructure: Docker Compose
-  - Documentation: Follow .roomodes specification
+  - Documentation: Follow .clinerules specification
 
 ## Project Goals
 1. Implement RESTful API endpoints for all core features
